@@ -1,2 +1,2 @@
-# cocco
-Everything COCCO dataset
+# cocco (Clouds over OCeania COuntries) Dataset
+This dataset contains high quality satellite imagery of clouds acquired over key cities of the 14 oceania countries as regions of interest (RoI): Canberra (Australia), Suva (Fiji Is), Tarawa (kiribati), Majuro (Marshall Is), Palikir (Micronesia), Yaren (Nauru), Auckland (New Zealand), Ngerulmud (Palau), Port Moresby (Papua New Guinea), Apia (Samoa), Honiara (Solomon Is), Nuku'alofa (Tonga), Funufuti (Tuvalu) and Port Vila (Vanuatu). 
